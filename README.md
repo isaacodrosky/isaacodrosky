@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isaac</h1>
+<h1 align="center">Hi 👋 I'm Isaac</h1>
 <h3 align="center">A frontend developer from North Carolina, USA</h3>
 
 - 📚 I’m currently working on [Character Log, a reading companion](https://character-log.netlify.app)
