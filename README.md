@@ -3,7 +3,7 @@
 
 - 📚 I’m currently working on [Character Log, a reading companion](https://character-log.netlify.app)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **APIs**
 
 - 📫 You can reach me at **isaacodrosky@gmail.com**
 
