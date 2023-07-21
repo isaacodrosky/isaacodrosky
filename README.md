@@ -3,7 +3,7 @@
 
 - 📚 I’m currently working on [Character Log, a reading companion](https://character-log.netlify.app)
 
-- 🌱 I’m currently learning **React** <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F2300px-React-icon.svg.png&tbnid=4fP0joQQKRm5dM&vet=12ahUKEwjRxsXwwqCAAxU9EGIAHU5cDrgQMygAegUIARDhAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&docid=nfz2qKo0MFLwMM&w=2300&h=2000&q=react%20logo&ved=2ahUKEwjRxsXwwqCAAxU9EGIAHU5cDrgQMygAegUIARDhAQ" alt="react" width="15" height="15"/>
+- 🌱 I’m currently learning **React** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="react" width="15" height="15"/>
 
 - 📫 You can reach me at **isaacodrosky@gmail.com**
 
