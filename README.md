@@ -12,5 +12,5 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/isaacodrosky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="isaacodrosky" /></a><a href="https://ko-fi.com/isaacodrosky"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="105" alt="isaacodrosky" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/isaacodrosky"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="105" alt="isaacodrosky" /></a><a href="https://ko-fi.com/isaacodrosky"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="105" alt="isaacodrosky" /></a></p><br><br>
 
